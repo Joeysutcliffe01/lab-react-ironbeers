@@ -1,3 +1,10 @@
+header {
+  background-color: #61dafb;
+  padding: 1rem 0;
+}
+header img {
+  width: 5%;
+}
 .App {
   text-align: center;
 }
